@@ -6,6 +6,7 @@ export default React.createClass({
         <div>
           {gettext('nested child component')}
         </div>
+        <Table striped bordered condensed hover/>
       </div>
     );
   },
